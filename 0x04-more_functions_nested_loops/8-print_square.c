@@ -1,5 +1,3 @@
-es (23 sloc)  310 Bytes
-
 #include "main.h"
 
 /**
@@ -26,3 +24,4 @@ void print_square(int n)
 	if (a == 0)
 		_putchar('\n');
 }
+
